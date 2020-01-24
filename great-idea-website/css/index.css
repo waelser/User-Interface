@@ -114,10 +114,6 @@ body {
 	text-align: center;
 }
 
-.heading h1 {
-	font-size: ;
-}
-
 button {
 	color: gray;
 	margin: 0 0 0 20%;
@@ -129,7 +125,6 @@ button:hover {
 
 .heading img {	
     margin: 1%;
-	width: 30%;
 	display: inline;
 	position: absolute;
 	top: 25%;
